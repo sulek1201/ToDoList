@@ -1,0 +1,35 @@
+com/example/todolist/deletingObject.java
+ com.example.todolist.deletingObject
+com/example/todolist/BuildConfig.java
+ com.example.todolist.BuildConfig
+com/example/todolist/personal_info.java
+ com.example.todolist.personal_info
+ com.example.todolist.personal_info$1
+com/example/todolist/Register.java
+ com.example.todolist.Register
+ com.example.todolist.Register$1
+com/example/todolist/Adapter.java
+ com.example.todolist.Adapter
+com/example/todolist/FirstFragment.java
+ com.example.todolist.FirstFragment
+ com.example.todolist.FirstFragment$1
+com/example/todolist/MainActivity2.java
+ com.example.todolist.MainActivity2
+ com.example.todolist.MainActivity2$1
+com/example/todolist/SecondFragment.java
+ com.example.todolist.SecondFragment
+ com.example.todolist.SecondFragment$1
+com/example/todolist/AddActivity.java
+ com.example.todolist.AddActivity
+ com.example.todolist.AddActivity$1
+com/example/todolist/MainActivity.java
+ com.example.todolist.MainActivity
+ com.example.todolist.MainActivity$1
+ com.example.todolist.MainActivity$1$1
+com/example/todolist/postlar.java
+ com.example.todolist.postlar
+ com.example.todolist.postlar$1
+ com.example.todolist.postlar$2
+com/example/todolist/DeleteActivity.java
+ com.example.todolist.DeleteActivity
+ com.example.todolist.DeleteActivity$1
